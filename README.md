@@ -31,7 +31,7 @@
 ---
 
 ## 🔒 プライバシーポリシー
-https://あなたのドメイン/またはGitHubPagesアイコン/privacy
+https://penguin7s.github.io/tabinote-support/privacy-policy
 
 （必要に応じて URL を変更してください）
 
